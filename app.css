@@ -1,0 +1,26 @@
+div {
+	width: 1000px;
+	margin: 10px;
+	padding: 15px;
+	border: 1px solid #999999;
+}
+
+img {
+	width: 100%;
+}
+
+div#first-section {
+	color: black;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 14px;
+}
+
+body{
+	background-color: white;
+}
