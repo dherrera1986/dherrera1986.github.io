@@ -4,13 +4,11 @@ div {
 }
 
 img {
-	width: 60%;
-	margin-right: 30px;
+	width: 100%;
+
+	
 }
 
-div#first-section {
-	color: black;
-}
 
 header {
 	font-size: 20px;
@@ -19,12 +17,22 @@ header {
 	width: 270px;
 }
 
+section {
+	 	float: right;
+	 	width: 700px;
+	 	margin-top: 0px;
+	 	font-size: 16px;
+	    font-family: "verdana"
+}
+
 p {
-	font-size: 14px;
+	font-size: 16px;
+	font-family: "verdana"
 }
 
 body{
 	padding: 50px;
 	background-color: #fff;
+
 }
 
